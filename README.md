@@ -8,7 +8,7 @@ It'll showing an example like:
 ```
 docker build -t java8-container .
 ```
- The terminal showing this images is creating and installing the java 8
+ The terminal showing this image is creating and installing the java 8.
  
  # How run an container's instance
  It's simple run a container that it showing java version, an example like:
