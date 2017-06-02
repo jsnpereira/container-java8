@@ -24,7 +24,7 @@ Java(TM) SE Runtime Environment (build 1.8.0_131-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.131-b11, mixed mode)
 ```
 
-#How share an image for Docker repository
+# How share an image for Docker repository
 
 Run this command like:
 ```
